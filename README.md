@@ -6,4 +6,5 @@ This uses a PicoBlaze embedded processor programmed with KCPSM6, the on-board 12
 The top module for the entire program is top.v.
 
 Photo of Anvyl development board from datasheet:
+
 <img width="496" height="396" alt="image" src="https://github.com/user-attachments/assets/2a8f1bc6-e11c-4cd4-b952-969f8376590c" />
