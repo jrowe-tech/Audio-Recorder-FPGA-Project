@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="warning" file="HDLCompiler" num="1016" delta="unknown" >"/home/ise/Desktop/CDA4203L/FINAL_PROJECT/FINAL_PROJECT/switch_top.v" Line 70: Port <arg fmt="%s" index="1">LOCKED</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="329" delta="unknown" >"/build/xfndry/isimco/hipsBuilds/P_hips_v23.0/rst/hips/mcb/common_modules.v" Line 260: Target &lt;<arg fmt="%s" index="1">(null)</arg>&gt; of concurrent assignment or output port connection should be a net type.
+</msg>
+
+</messages>
+
